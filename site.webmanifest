@@ -1,0 +1,16 @@
+{
+  "name": "AEL Terminal Engineering Reference 2026",
+  "short_name": "AEL Terminal Ref",
+  "description": "220+ terminal commands, 20 categories, zero dependencies",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1220",
+  "theme_color": "#0B1220",
+  "icons": [
+    {
+      "src": "ael-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
