@@ -103,6 +103,16 @@ open index.html
 - LinkedIn: [aymanelmasryael](https://linkedin.com/in/aymanelmasryael)
 - X (Twitter): [@aymanelmasryael](https://x.com/aymanelmasryael)
 
+---
+
+## 🔗 Related Resources
+
+- [AEL Learning Catalog](https://github.com/aymanelmasryael/ael-learning-catalog) — Central entry point to all AEL courses
+- [Learn GitHub](https://github.com/aymanelmasryael/ael-learn-github-course) — Master Git, GitHub workflows, CI/CD, and open source contribution
+- [Learn OpenCode](https://github.com/aymanelmasryael/ael-learn-opencode-course) — From zero to professional with OpenCode agentic coding
+
+---
+
 ## License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
