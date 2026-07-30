@@ -4,6 +4,15 @@
 
 **Version 1.0.0** · 220+ Commands · 20 Categories · Zero Dependencies
 
+## 📚 Learning Metadata
+
+| | |
+|---|---|
+| **Learning Level** | Beginner → Advanced |
+| **Estimated Duration** | Self-paced (220+ commands, 20 categories) |
+| **Prerequisites** | Basic command line familiarity |
+| **Learning Outcomes** | Master 220+ terminal commands across 20 categories, navigate via interactive learning roadmap, track mastery progress |
+
 ---
 
 ## Features
